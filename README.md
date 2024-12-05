@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 Acessar o seguinte caminho:
 ```bash
-cd DesafioQAPleno--main/teste_qa_jr/01-resources/CenariosTestes
+ cd GratosSeguros/01-resources/CenariosTestes/
 ```
 Execute os testes usando o seguinte comando:
 ```bash
