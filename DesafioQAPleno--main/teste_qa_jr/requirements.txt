@@ -1,6 +1,0 @@
-# Documento com as dependencias para a automação ser executada
-
-robotframework==6.0
-robotframework-requests==1.0.1
-
-# pip install -r requirements.txt
