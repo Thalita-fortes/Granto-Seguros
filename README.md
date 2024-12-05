@@ -40,5 +40,6 @@ robot Tests/test_cep.robot
 │       └── test_cep.robot
 ├── README.md
 ```
+![Log de teste](./imagens/log.png)
 
 Esse arquivo de README contém todos os detalhes sobre o projeto, as instruções para execução e informações sobre a organização das pastas de resultados.
