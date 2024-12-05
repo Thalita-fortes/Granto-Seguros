@@ -1,4 +1,3 @@
-```markdown
 # **Análise Funcional da API ViaCEP**
 
 ## **Fluxos Principais da API**
